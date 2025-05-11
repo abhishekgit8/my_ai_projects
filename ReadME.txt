@@ -1,4 +1,3 @@
-# my_ai_projects
 #Create a python environment and activate it
 python -m venv env
 pip install -r requirements.txt
